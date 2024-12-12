@@ -3,7 +3,7 @@ Developed a fully responsive landing page for a workout tracker app.
 
 
 ## Hosted Link:
-### 
+### https://sinhakhushitherockc2.github.io/gym_web/
 
 ## Tools Used:
 * JSX
